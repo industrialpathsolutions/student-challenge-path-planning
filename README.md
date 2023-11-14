@@ -1,5 +1,5 @@
-Student challenge particle simulation
-=====================================
+Student challenge path planning
+===============================
 
 This repository contains details for the coding challenge announced during
 student fairs at Chalmers, November 2023.
