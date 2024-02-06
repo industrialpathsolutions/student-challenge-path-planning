@@ -2,7 +2,7 @@ Student challenge path planning
 ===============================
 
 This repository contains details for the coding challenge announced during
-student fairs at Chalmers, November 2023.
+student fairs at Chalmers, November 2023 and re-visited for CHARM 2024.
 
 Background
 ----------
@@ -38,4 +38,4 @@ How to submit a solution?
 
 Submit your solution by sending us a mail at recruit@industrialpathsolutions.com
 with a link to a code repository on GitHub or GitLab. The deadline for
-submission is January 15.
+submission is currently March 1.
